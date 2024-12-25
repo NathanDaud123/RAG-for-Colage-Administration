@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+PyPDF2
+python-docx
+reportlab
+docx2pdf
+pywin32
